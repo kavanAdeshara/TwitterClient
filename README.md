@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='App Preview.gif' />
+<img src='Video Walkthrough pt.1.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
